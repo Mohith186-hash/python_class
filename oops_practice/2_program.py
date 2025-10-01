@@ -1,3 +1,4 @@
+#Create an Employee class with name, base_salary. Add a method calculate_annual_salary.
 class employee:
     def __init__(self,name,base_salary):
         self.name = name

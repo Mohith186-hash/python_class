@@ -1,3 +1,4 @@
+
 #1.arthematic
 a=int(input("enter a value:"))#enter a value:10
 b=int(input("enter b value:"))#enter b value:5
@@ -105,6 +106,7 @@ y = 8
 print(x>5 and y<10) #true 
 print(x>8 or y< 10) #true
 print(not(x>5)) # false
+
 
 
 

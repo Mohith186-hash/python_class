@@ -1,3 +1,4 @@
+#Create a Student class with a list of marks. Add a method to return average and pass/fail.
 class Student:
     def __init__(self,name,marks):
         self.name = name
