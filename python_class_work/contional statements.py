@@ -12,8 +12,8 @@ else:
 #enter the email and pwd: prshanth@gmail.com 123@
 #login successful
 ''' by using data(email) we will get error
-if the data has not present on it so us (.get)'''
+if the data has not present on it so us (.get)
 
 items=["idly,samosa,oil,bag"]
 stocks=["20,30,10,0"]
-data=input("enter the item name: ")
+data=input("enter the item name: ")'''
